@@ -26,12 +26,12 @@ newgrp docker
 
 ## Setup github secrets:
 
-AWS_ACCESS_KEY_ID=
+AWS_ACCESS_KEY_ID=AKIAW3IFYIRJ3VBFJ7OH
 
-AWS_SECRET_ACCESS_KEY=
+AWS_SECRET_ACCESS_KEY=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
 
-AWS_REGION = us-east-1
+AWS_REGION = ap-south-1
 
-AWS_ECR_LOGIN_URI = demo>>  566373416292.dkr.ecr.ap-south-1.amazonaws.com
+AWS_ECR_LOGIN_URI = demo>>  470847865939.dkr.ecr.ap-south-1.amazonaws.com/spi-cicd-pipeline
 
-ECR_REPOSITORY_NAME = simple-app
+ECR_REPOSITORY_NAME = spi-cicd-pipeline
